@@ -1,0 +1,39 @@
+script_direction: ltr
+  အခြေခံ
+  advanced: Advanced
+  အဆင့်မြင့်
+  specifics: Specifics
+  libraries: Libraries
+project:
+  title: Elixir School
+  description: The premier destination for learning and mastering Elixir
+  Elixir ကိုအခြေခံမှစပြီး ဆရာတစ်ဆူဖြစ်တဲ့ထိလေ့လာနို်င်သော ပထမဆုံးသောနေရာ
+table_of_contents: Table of Contents
+ မာတိကာ
+share: Share This Page
+  ဤစာမျက်နှာကိုမျှဝေရန်
+sections:
+  home: Home
+  basics: Basics
+  blog: Blog
+  contributors: Contributors
+  translation_report: Translation Report
+  ဘာသာပြန်
+
+version_messages:
+  outdated: "Some contents of this translation may be outdated."
+  major: "Several major changes were applied to the original lesson since the last update."
+  minor: "Several minor changes were applied to the original lesson since the last update."
+  patch: "Several patches were applied to the original lesson since the last update."
+  none: "This translation is up to date."
+  error: "There is an error in the version definition of this chapter."
+
+translation_report:
+  section: Section
+  original_title: Original Title
+  မူရင်းခေါင်းစဥ်
+  translation_title: Translation Title
+  ဘာသာပြန်ခေါင်းစဥ်
+  original_version: Original Version
+  translation_version: Translation Version
+  version_severity: Version Severity
